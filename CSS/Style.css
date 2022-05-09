@@ -3,7 +3,11 @@
     padding: 0;
 
 }
+ul{
+    margin: 15px;
+}
 body{
+    width: auto;
     background-color: white;
 }
 header{
@@ -24,7 +28,7 @@ a{
     text-decoration: none;
     color: #47a1ff;
 }
-figcaption{
+.picture-caption{
     font-size: 10px;
 }
 .highlighted{
@@ -65,6 +69,6 @@ table{
 .logo{
     width: 200px;
     height: 200px;
-    margin: 0 400px;
+    margin: 0 5px;
     padding-top: 25px;
 }
