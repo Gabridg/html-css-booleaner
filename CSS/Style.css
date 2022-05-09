@@ -20,3 +20,10 @@ figcaption{
 .highlighted{
     background-color: yellow;
 }
+thead{
+    color: white;
+    background-color: #47a1ff;
+}
+.Sky{
+    background-color: lightblue;
+}
