@@ -49,6 +49,6 @@ thead{
     font-size: 18px;
 }
 .contenitore{
-    width: auto;
-    height: auto;
+    width: 1000px;
+    margin: auto;
 }
