@@ -68,3 +68,7 @@ thead{
     margin: 0 400px;
     padding-top: 25px;
 }
+table{
+    text-align: center;
+    width: auto;
+}
