@@ -43,6 +43,7 @@ thead{
 }
 .suggestion{
     color: grey;
+    margin-bottom: 10px;
 }
 .picture,
 .picture2{
@@ -50,6 +51,7 @@ thead{
     background-repeat: no-repeat;
     width: 400px;
     height: 250px;
+    margin: 10px;
 }
 .picture{
     background-image: url('../images/monitor.jpg');
