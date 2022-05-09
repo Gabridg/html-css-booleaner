@@ -27,3 +27,28 @@ thead{
 .Sky{
     background-color: lightblue;
 }
+.suggestion{
+    color: grey;
+}
+.picture,
+.picture2{
+    color: white;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 250px;
+}
+.picture{
+    background-image: url('../images/monitor.jpg');
+}
+.picture2{
+    background-image: url('../images/graph.jpg');
+}
+.space{
+    
+    margin: 20px;
+    font-size: 18px;
+}
+.contenitore{
+    width: auto;
+    height: auto;
+}
